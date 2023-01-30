@@ -1,3 +1,3 @@
 # best-repo-ever
 
-Testinf Git, How it is Worked 
+Testing Git, How it is Worked 
